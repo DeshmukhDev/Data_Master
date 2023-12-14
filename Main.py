@@ -5,11 +5,11 @@
 # print(f"the sum of numbers is:{sum}")
 # Way 2:
 
-# a = input("enter no")
-# sum =0
-# for i in a:
-#     sum = sum + int(i)
-# print(sum)
+ a = input("enter no")
+ sum =0
+ for i in a:
+     sum = sum + int(i)
+ print(sum)
 a = input("enter numbers")
 sum =0
 for i in a:
